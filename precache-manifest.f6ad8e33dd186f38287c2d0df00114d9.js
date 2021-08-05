@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "34a9a4fb5baafaa856759b38a3b04002",
+    "revision": "78e84037460cdf676d177a4d4eb80900",
     "url": "/racing-wheel-2/index.html"
   },
   {
-    "revision": "514ebfd149eb823e9ede",
+    "revision": "e548fea198b446183b39",
     "url": "/racing-wheel-2/static/css/main.d05d0d56.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/racing-wheel-2/static/js/2.95fcc08c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "514ebfd149eb823e9ede",
-    "url": "/racing-wheel-2/static/js/main.813dca3f.chunk.js"
+    "revision": "e548fea198b446183b39",
+    "url": "/racing-wheel-2/static/js/main.3267d4ed.chunk.js"
   },
   {
     "revision": "737401e8507cc5d76530",
